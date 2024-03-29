@@ -1,4 +1,4 @@
-# Petstore API1qqw
+# Petstore API
 
 ## To Build
 ```
